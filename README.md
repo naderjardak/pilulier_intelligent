@@ -1,5 +1,5 @@
 # pilulier_intelligent
-Projet PFE
+Projet PFE ( Enet'com )
 Notre pilulier intelligent est un boitier électronique dans lequel on garantit une 
 observation du traitement médical. Ce pilulier intelligent utilise la technologie wifi à l’aide de 
 protocole HTTPS (HyperText Transfer Protocol Secure) permettant l’échange des données 
